@@ -18,10 +18,10 @@ I want to learn JavaScript and I will put a lot of efforts into this.
 Now I making a project for my experience, I reading book about [JavaScript](http://learn.javascript.ru/)
 
 ## Education
-* Higher: Karagandy State Technical University (2017-2021)
-* HTML Academy courses
+* Higher: Karagandy State Technical University (2017-2021);
+* HTML Academy courses;
 
 ## English
-A2+ - EPAM test,
+A2+ - EPAM test.
 I was learning English at school, at university.
-Now I am  learning English to improve my level
+Now I am  learning English to improve my level.
