@@ -1,0 +1,42 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+    font-size: 18px;
+    font-family: "Times New Roman", "Arial" sans-serif;
+    text-align: center; 
+    background-color: LightCyan;
+}
+
+.avatar {
+    margin-bottom: 10px;
+    border-radius: 20%;    
+}
+
+nav {
+    display: inline-block;
+    width: 20rem;
+    text-align: left;
+    border: 3px solid black;
+}
+
+h1, h2 {
+    margin-bottom: 10px;
+}
+
+.skills dd {
+    display: inline-block;
+    width: 40rem;
+    margin: 10px;
+    background-color: #E6E6FA;
+}
+
+.skills-level {
+    background-color: #87CEEB;
+    font-size: 14px;
+    text-align: center;
+    color: #00008B;  
+}
+
+a {
+    text-decoration: none;
+}
